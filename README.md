@@ -8,6 +8,7 @@ External Files Used
 
  * The Cherry MX key caps were 3D printed on a [Lulzbot Mini](https://www.sparkfun.com/products/13256). The keycaps used were found on Thingiverse [here](https://www.thingiverse.com/thing:1320847).
  * The HID Arduino Library can be found [here](https://github.com/NicoHood/HID).
+ * The Encoder library can be found [here](https://www.pjrc.com/teensy/td_libs_Encoder.html).
 
 Repository Contents
 -------------------
