@@ -1,6 +1,8 @@
 Cherry MX Keyboard
 =======
 
+[![Keyboard](https://cdn.sparkfun.com/assets/home_page_posts/2/4/1/2/Front.jpg)](https://cdn.sparkfun.com/assets/home_page_posts/2/4/1/2/Front.jpg)
+
 The keyboard has a 4x4 matrix of cherry MX switches, which are connected to the [SparkFun Pro Micro](https://www.sparkfun.com/products/12587). Each key can send either a keyboard or mouse command to the host computer thanks to the improved [HID Arduino Library](https://github.com/NicoHood/HID). Rotary encoder support was provided by the [Teensy Encoder Library](https://www.pjrc.com/teensy/td_libs_Encoder.html). The software is currently configured as an Eagle shortcut keyboard, where each button corresponds to an Eagle command. The left rotary encoder controls the computer's volume, and the built in encoder switch for mute. The right encoder controls the grid spacing, and the encoder switch will toggle between imperial and metric units.
 
 External Files Used
